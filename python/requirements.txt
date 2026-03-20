@@ -1,1 +1,3 @@
 xdk>=0.4.5
+flask>=3.0.0
+waitress>=3.0.0
